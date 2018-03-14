@@ -1,0 +1,5 @@
+CRITICAL:root:Test 1
+CRITICAL:root:Test 5
+warning_test:root:Test 5
+warning_test:root:Test 5
+warning_test:root:Test 5

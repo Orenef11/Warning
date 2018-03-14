@@ -1,0 +1,4 @@
+14/03/2018 11:26:36 AM	[run.py <module> 16]  742 root [CRITICAL] Test 1
+14/03/2018 11:26:36 AM	[run.py <module> 17]  743 root [INFO] Test 2
+14/03/2018 11:26:36 AM	[run.py <module> 18]  743 root [WARNING] Test 3
+14/03/2018 11:26:36 AM	[run.py <module> 19]  744 root [ERROR] Test 4
